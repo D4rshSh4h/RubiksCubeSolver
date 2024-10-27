@@ -6,4 +6,4 @@ The cube itself is represented by a series of 2-D numpy arrays, and manipulation
 
 For now, i've used an already implemented solving algorithm (Git Repo - bellerb/RubiksCube_Solver) and modified it slightly so its compatible with Cube.py. Later I hope to implement more algorithms.
 
-Don't hesitate to improve/fix any code especially from Cube.py!
+Don't hesitate to improve/fix any code - especially in Cube.py!
